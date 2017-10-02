@@ -1,10 +1,4 @@
-"""
-Hope...this works. same code different csv file,
-using Shiggs csv which contains less transaction data
-The 'rb' in the method that sets the path is if the user
-does not want to write to the file...
 
-"""
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.pagesizes import landscape
