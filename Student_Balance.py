@@ -58,9 +58,6 @@ def import_name(): # Defines the path
     c.showPage()
   
     
-    
-       
-	
     fig = plt.figure(figsize=(8, 6)) # draws the graph on the canvas
     plt.title('Daily Balance')
     plt.xlabel('Date')
