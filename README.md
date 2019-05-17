@@ -1,4 +1,4 @@
-# csv-to-pdf
+# CSV-to-PDF
 
 This is a python script that will convert a csv file into a pdf. This script uses the following modules to plot a graph with needed data for the user:
 
